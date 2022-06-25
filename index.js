@@ -8,4 +8,3 @@ console.log( "I am" + " " + Name)
 console.log( "My hight is" + " " + hight)
 console.log( "My country is" + " " + country)
 
-
